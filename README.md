@@ -1,16 +1,45 @@
-### Hi there 👋
+# NONE
+_NONE_
 
-<!--
-**Eternityw/Eternityw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NONE**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FOR EXAMPLE `NONE`
+
+>NONE
+>
+>NONE
+>
+>NONE
+
+>>>N
+>>>
+>>N
+>>
+>N
+
+>N
+>
+>>N
+>>
+>>>N
+
+- FOR
+- EVER
+- NONE
+
+1. NEVER
+2. FOR
+3. NONE
+
+ETE|RNI|TY
+:-:|:-:|:-:
+FOR|NEVER|DONE
+
+&#10003;
+
+```
+ETERNITY
+NEVER
+```
